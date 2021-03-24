@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<documento>
-    <module lecturer="Mark"> Interactive Web Application </module>
-</documento>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type= 'text/css' href = 'style.css'?>
+<portfolio>
+    <company company="TSLA">Tesla </company>
+    <symbol symbol = "TSLA" />
+    <text> this is <bold>my text <![CDATA[ Tesla :)]]> </bold> </text>
+</portfolio>
